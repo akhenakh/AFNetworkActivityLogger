@@ -1,4 +1,4 @@
-# AFNetworkActivityLogger
+# AFNetworkActivityLogger for NBG_Common using NSLogger
 
 `AFNetworkActivityLogger` is an extension for [AFNetworking](http://github.com/AFNetworking/AFNetworking/) 2.0 that logs network requests as they are sent and received.
 
